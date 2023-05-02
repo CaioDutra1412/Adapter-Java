@@ -1,6 +1,6 @@
 package padroesestruturais.adapter;
 
-public class AvaliacaoGuerreiroGurreiro implements IAvaliacaoGurreiro {
+public class AvaliacaoGuerreiro implements IAvaliacaoGurreiro {
 
     private String conceito;
 

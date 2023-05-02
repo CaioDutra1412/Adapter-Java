@@ -6,7 +6,7 @@ public class Guerreiro {
     AvaliacaoAdapter persistencia;
 
     public Guerreiro() {
-        avaliacao = new AvaliacaoGuerreiroGurreiro();
+        avaliacao = new AvaliacaoGuerreiro();
         persistencia = new AvaliacaoAdapter(avaliacao);
     }
 
